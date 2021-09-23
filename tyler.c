@@ -22,7 +22,7 @@ void main()
 	}
 	while(fabs(term)>=0.000001);
 	printf("sine of %d=%.3f\n",degree,sum);
-	printf("sine using built in functions %d=%.3f",degree,sin(x));
+	printf("using built in functions %d=%.3f",degree,sin(x));
 	
 	
 
